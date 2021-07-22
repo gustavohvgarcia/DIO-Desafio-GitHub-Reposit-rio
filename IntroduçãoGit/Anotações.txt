@@ -1,0 +1,2 @@
+Espaço utilizado para fazer anotações úteis sobre as aulas.
+Servirá também como uso prático do Git.
